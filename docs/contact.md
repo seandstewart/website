@@ -5,7 +5,8 @@
 
 [:fa-github: GitHub](https://github.com/seandstewart) |
 [:fa-linkedin: LinkedIn](https://linkedin.com/in/seandstewart) |
-[:fa-twitter: Twitter](https://twitter.com/MrSeanStewart)
+[:fa-twitter: Twitter](https://twitter.com/MrSeanStewart) |
+[:fa-medium: Medium](https://medium.com/@SeanDStewart)
 
 ## Send a Note
 *It's like high school all over again.*
