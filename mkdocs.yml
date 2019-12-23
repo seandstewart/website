@@ -1,0 +1,57 @@
+site_name: Sean D Stewart
+site_author: Sean D Stewart
+copyright: "Copyright &copy; 2019 - 2020 Sean Stewart"
+site_url: https://seandstewart.io
+repo_url: https://github.com/seandstewart/website
+repo_name: seandstewart/website
+nav:
+  - index.md
+  - projects.md
+  - words.md
+  - pep20.md
+  - contact.md
+theme:
+  name: "material"
+  favicon: "static/favicon/favicon.ico"
+  logo:
+    icon: "home"
+  palette:
+    primary: "blue grey"
+    accent: "blue"
+  font:
+    text: "IBM Plex Serif"
+    code: "IBM Plex Mono"
+markdown_extensions:
+  - toc:
+      permalink: "#"
+  - smarty
+  - admonition
+  - footnotes
+  - codehilite
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - fontawesome_markdown
+extra:
+  social:
+    - type: "github"
+      link: "https://github.com/seandstewart/website"
+    - type: "twitter"
+      link: "https://twitter.com/MrSeanStewart"
+    - type: "linkedin"
+      link: "https://linkedin.com/in/seandstewart"
+  manifest: "static/favicon/site.webmanifest"
+
