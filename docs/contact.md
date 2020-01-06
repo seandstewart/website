@@ -1,8 +1,3 @@
-<!-- Compiled and minified CSS -->
-
-<!-- Compiled and minified JavaScript -->
-<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>-->
-
 # Say Hello
 
 ## Get Social
@@ -40,8 +35,7 @@
   <div class="form-group">
     <textarea 
       name="text" 
-      required >
-    </textarea>
+      required ></textarea>
     <label for="text" class="control-label">Message</label>
     <i class="bar"></i>
   </div>
