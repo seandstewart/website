@@ -16,7 +16,6 @@
     <input 
       name="name" 
       type="text" 
-      class="form-group" 
       required 
     />
     <label for="name" class="control-label">Name</label>
@@ -26,7 +25,6 @@
     <input 
       name="email" 
       type="email" 
-      class="form-group" 
       required 
     />
     <label for="email" class="control-label">Email</label>
