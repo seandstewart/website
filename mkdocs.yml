@@ -54,4 +54,6 @@ extra:
     - type: "linkedin"
       link: "https://linkedin.com/in/seandstewart"
   manifest: "static/favicon/site.webmanifest"
+extra_css:
+  - "stylesheets/extra.css"
 
