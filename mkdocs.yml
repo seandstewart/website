@@ -10,6 +10,7 @@ nav:
   - words.md
   - pep20.md
   - contact.md
+  - scratches/workout.md
 theme:
   name: "material"
   favicon: "static/favicon/favicon.ico"
