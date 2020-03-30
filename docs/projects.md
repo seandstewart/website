@@ -59,6 +59,7 @@ A parsing and rendering library for spoken text and plays. Count
 spoken lines, track characters, and more... 
 
 - [Repository](https://github.com/seandstewart/iambic)
+- [Documentation](https://iambic.seandstewart.io/)
 
 ```pydevconsole
 >>> import iambic
